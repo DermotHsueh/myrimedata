@@ -12,7 +12,7 @@ patch:
     - {accept: minus, send: Page_Up, when: paging}
     - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: "Control+Shift+space", toggle: simplification, when: always}
-    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+u", send: Up, when: composing}
     - {accept: "Control+n", send: Down, when: composing}
     - {accept: "Control+h", send: Left, when: composing}
     - {accept: "Control+l", send: Right, when: composing}
