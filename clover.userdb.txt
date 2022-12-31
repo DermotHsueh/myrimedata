@@ -2,21 +2,60 @@
 #@/db_name	clover.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	26
+#@/tick	71
 #@/user_id	myrimedata-windows
-an fu 	安抚	c=1 d=1 t=2
-ha ha ha 	哈哈哈	c=1 d=1 t=11
-hao de 	好的	c=5 d=4.91121 t=24
-hui fu 	回复	c=3 d=2.98506 t=6
-hui yi 	会议	c=1 d=1 t=1
-ke xiao 	可笑	c=1 d=1 t=3
-lei 	类	c=1 d=1 t=9
-ni hao 	你好	c=1 d=1 t=25
-piao liang 	漂亮	c=1 d=1 t=26
-qi 	其	c=1 d=1 t=12
-qin qin 	亲亲	c=6 d=5.81873 t=23
-tou su 	投诉	c=1 d=1 t=10
-wei 	为	c=0 d=0.1 t=6
-wo men de 	我们的	c=1 d=1 t=19
-xing wei 	行为	c=1 d=1.099 t=8
-xing wei wei 	行为为	c=1 d=1 t=7
+an fu 	安抚	c=1 d=0.88692 t=71
+bu shi 	不是	c=2 d=1.99501 t=54
+bu shu 	部署	c=2 d=1.99501 t=70
+chang yong 	常用	c=2 d=1.99005 t=29
+chong xin 	重新	c=2 d=1.99501 t=69
+chuang jian 	创建	c=2 d=1.99501 t=60
+ci ku 	词库	c=1 d=1 t=48
+dang di de 	当地的	c=1 d=1 t=34
+de 	的	c=1 d=1 t=39
+de dao 	得到	c=1 d=1 t=37
+duan yu 	短语	c=1 d=1.0956 t=50
+er shi 	而是	c=2 d=1.99501 t=58
+fa 	法	c=1 d=1 t=44
+gai wen jian 	该文件	c=2 d=1.99501 t=65
+ha ha ha 	哈哈哈	c=1 d=0.927743 t=71
+hao de 	好的	c=5 d=4.86234 t=71
+hua shu 	话术	c=2 d=1.99005 t=30
+hui fu 	回复	c=3 d=2.70099 t=71
+hui yi 	会议	c=1 d=0.882497 t=71
+ji ke 	即可	c=2 d=1.99501 t=71
+jie jue 	解决	c=2 d=1.99501 t=51
+ke xiao 	可笑	c=1 d=0.891366 t=71
+kuai jie 	快捷	c=0 d=0.1 t=41
+kuai jie duan yu 	快捷短语	c=1 d=1 t=42
+le 	了	c=2 d=1.99501 t=53
+lei 	类	c=1 d=0.918512 t=71
+li 	里	c=3 d=2.89771 t=66
+ni hao 	你好	c=1 d=0.995012 t=71
+piao liang 	漂亮	c=1 d=1 t=71
+qi 	其	c=1 d=0.932394 t=71
+qin qin 	亲亲	c=6 d=5.7321 t=71
+she zhi 	设置	c=3 d=2.91353 t=57
+shi da fu 	士大夫	c=4 d=3.95052 t=36
+shu ru 	输入	c=1 d=1 t=43
+shu ru fa 	输入法	c=1 d=1 t=47
+si ye cao 	四叶草	c=1 d=1 t=40
+tian jia 	添加	c=2 d=1.99501 t=67
+tou su 	投诉	c=1 d=0.923116 t=71
+wei 	为	c=0 d=0.0904837 t=71
+wen 	问	c=1 d=1 t=45
+wen jian 	文件	c=2 d=1.99501 t=62
+wo 	我	c=-1 d=0 t=44
+wo 	沃	c=-1 d=0 t=44
+wo 	渥	c=-1 d=0 t=44
+wo men de 	我们的	c=1 d=0.965605 t=71
+xing wei 	行为	c=1 d=1.00441 t=71
+xing wei wei 	行为为	c=1 d=0.909373 t=71
+yi ge 	一个	c=2 d=1.99501 t=61
+zai 	在	c=4 d=3.89699 t=63
+zhe me 	这么	c=1 d=1 t=64
+zhe zhong 	这种	c=1 d=1 t=33
+zheng 	帧	c=1 d=1 t=46
+zi ding yi 	自定义	c=1 d=1 t=49
+zu zhi zhe 	组织者	c=1 d=1 t=38
+zui hou 	最后	c=2 d=1.99501 t=68

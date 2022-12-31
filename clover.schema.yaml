@@ -54,13 +54,13 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - reverse_lookup_translator
     - script_translator
   filters:
     - simplifier@emoji_suggestion
     - simplifier@symbol_support
     - simplifier
     - uniquifier
-
 simplifier:
   option_name: zh_simp_s2t
   opencc_config: s2t.json
@@ -109,7 +109,6 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-
 punctuator:
   import_preset: symbols
   full_shape:
