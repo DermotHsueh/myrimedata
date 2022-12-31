@@ -1,0 +1,22 @@
+# Rime user dictionary
+#@/db_name	clover.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	26
+#@/user_id	myrimedata-windows
+an fu 	安抚	c=1 d=1 t=2
+ha ha ha 	哈哈哈	c=1 d=1 t=11
+hao de 	好的	c=5 d=4.91121 t=24
+hui fu 	回复	c=3 d=2.98506 t=6
+hui yi 	会议	c=1 d=1 t=1
+ke xiao 	可笑	c=1 d=1 t=3
+lei 	类	c=1 d=1 t=9
+ni hao 	你好	c=1 d=1 t=25
+piao liang 	漂亮	c=1 d=1 t=26
+qi 	其	c=1 d=1 t=12
+qin qin 	亲亲	c=6 d=5.81873 t=23
+tou su 	投诉	c=1 d=1 t=10
+wei 	为	c=0 d=0.1 t=6
+wo men de 	我们的	c=1 d=1 t=19
+xing wei 	行为	c=1 d=1.099 t=8
+xing wei wei 	行为为	c=1 d=1 t=7

@@ -1,0 +1,36 @@
+# weasel.custom.yaml
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun May 17 13:13:08 2020"
+  rime_version: 1.5.3
+patch:
+  "app_options/hl.exe":
+    ascii_mode: true
+  "app_options/gvim.exe":
+    ascii_mode: true
+  "app_options/vim.exe":
+    ascii_mode: true
+  "style/color_scheme": aqua
+  "style/display_tray_icon": false
+  "style/font_face": "Microsoft YaHei"
+  "style/font_point": 13
+  "style/horizontal": true
+  "style/inline_preedit": false
+  "style/layout/border_width": 1
+  
+  #自定义配色方案
+  "style/color_scheme": ghcolor 
+  "preset_color_schemes/ghcolor": 
+    name: ghcolor
+    author: GavinHsueh
+    back_color: 0x292929
+    border_color: 0x365EFF
+    text_color: 0x05FF9B
+    hilited_text_color: 0x05FF9B
+    hilited_back_color: 0x3F3D40
+    hilited_candidate_text_color: 0x3D5DFF
+    hilited_candidate_back_color: 0x383838
+    candidate_text_color: 0xE0E0E0
+    comment_text_color: 0xCFCFCF
