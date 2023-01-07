@@ -1,0 +1,85 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	100
+#@/user_id	myrimedata-windows
+a 	啊	c=5 d=3.58911 t=100
+ai 	愛	c=1 d=0.715338 t=100
+an 	按	c=1 d=0.729789 t=100
+ao 	奧	c=1 d=0.718924 t=100
+bian 	遍	c=1 d=0.782705 t=100
+bin 	斌	c=1 d=0.913931 t=100
+cao 	草	c=1 d=0.904837 t=100
+chi 	吃	c=1 d=0.856415 t=100
+chuang 	牀	c=1 d=0.644036 t=100
+ci 	次	c=1 d=0.744532 t=100
+da 	打	c=1 d=0.774916 t=100
+dai 	帶	c=2 d=1.81621 t=100
+dai dai 	呆呆	c=3 d=2.96109 t=100
+dai dai zou 	呆呆走	c=1 d=1 t=96
+dan 	單	c=1 d=0.814647 t=100
+de 	的	c=1 d=0.657047 t=100
+de jia 	的家	c=0 d=0.0927743 t=100
+den 	㩐	c=2 d=1.99501 t=98
+ding pie 	釘撇	c=1 d=0.960789 t=100
+dong jing 	東京	c=1 d=0.955997 t=100
+duo 	多	c=1 d=0.822835 t=100
+e 	額	c=2 d=1.41999 t=100
+en 	恩	c=1 d=0.733447 t=100
+er 	二	c=1 d=0.763379 t=100
+er 	而	c=2 d=1.39983 t=100
+fen 	分	c=1 d=0.873716 t=100
+geng 	更	c=1 d=0.878095 t=100
+hang 	航	c=1 d=0.882497 t=100
+ji 	即	c=1 d=0.818731 t=100
+jiang 	將	c=1 d=0.946485 t=100
+kai 	開	c=1 d=0.951229 t=100
+kuai 	快	c=1 d=0.88692 t=100
+liang 	兩	c=1 d=0.891366 t=100
+liang bian 	兩邊	c=1 d=0.778801 t=100
+mai 	買	c=1 d=1 t=100
+mian 	麪	c=1 d=0.923116 t=100
+nai 	𢉓	c=1 d=0.927743 t=100
+niao 	鳥	c=1 d=0.918512 t=100
+o 	哦	c=2 d=1.40236 t=100
+ou 	偶	c=1 d=0.701173 t=100
+ou 	歐	c=1 d=0.722527 t=100
+pie 	撇	c=1 d=0.860708 t=100
+qiu 	球	c=1 d=0.83527 t=100
+quan pin 	全拼	c=1 d=0.802519 t=100
+ri 	日	c=1 d=0.737123 t=100
+ruan 	軟	c=1 d=0.843665 t=100
+shu 	書	c=3 d=2.15642 t=100
+shuai 	帥	c=1 d=0.67032 t=100
+shuang 	爽	c=2 d=1.30117 t=100
+shuang 	雙	c=1 d=0.786628 t=100
+si 	四	c=1 d=0.748264 t=100
+song 	送	c=1 d=0.865022 t=100
+suo 	所	c=2 d=1.31091 t=100
+tong 	同	c=1 d=0.798516 t=100
+wei 	爲	c=1 d=0.839457 t=100
+wen 	問	c=2 d=1.89786 t=100
+wo 	喔	c=1 d=0.965605 t=100
+wo 	我	c=1 d=0.970446 t=100
+wo me ni 	我麼你	c=2 d=1.63763 t=100
+wo men 	我們	c=0 d=0.0927743 t=100
+wo men de jia 	我們的家	c=1 d=1.21639 t=100
+wo men de jia xia 	我們的家下	c=1 d=0.937067 t=100
+wo men de jia xiang 	我們的家鄉	c=2 d=1.898 t=100
+wo men de jia xiang 	我們的家香	c=1 d=0.941765 t=100
+wu 	五	c=1 d=0.755784 t=100
+wu 	無	c=1 d=0.680451 t=100
+xia 	下	c=1 d=0.993568 t=100
+xiang 	鄉	c=0 d=0.0970446 t=100
+xiang 	香	c=0 d=0.0937067 t=100
+yi 	一	c=2 d=1.42907 t=100
+yin jie 	音節	c=3 d=2.44823 t=100
+yu 	與	c=2 d=1.44343 t=100
+yun 	暈	c=1 d=0.847894 t=100
+yun mu 	韻母	c=2 d=1.56559 t=100
+zhui 	追	c=2 d=1.86437 t=100
+zi 	子	c=1 d=0.740818 t=100
+zi mu 	字母	c=3 d=2.38474 t=100
+zou 	走	c=1 d=0.953946 t=100
+zou zai 	走在	c=1 d=0.995012 t=100

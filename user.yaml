@@ -1,2 +1,8 @@
 var:
-  last_build_time: 1672493931
+  last_build_time: 1673077343
+  option:
+    simplification: true
+  previously_selected_schema: double_pinyin_flypy
+  schema_access_time:
+    clover: 1673075422
+    double_pinyin_flypy: 1673077115

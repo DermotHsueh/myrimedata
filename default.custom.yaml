@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Sat Dec 31 16:00:27 2022"
+  modified_time: "Fri Jan  6 13:39:48 2023"
   rime_version: 1.5.3
 patch:
   "ascii_composer/switch_key":
@@ -24,5 +24,6 @@ patch:
   "menu/page_size": 5
   schema_list:
     - {schema: clover}
+    - {schema: double_pinyin_flypy}
   "switcher/hotkeys":
     - "Control+grave"
